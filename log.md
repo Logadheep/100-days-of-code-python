@@ -1,10 +1,10 @@
 # 100 Days Of Code - Log
 
-### Day 01: September 12, 2021
+### Day 00: September 12, 2021
 
 **Today's Progress**: * Python Data Types, * Python's print() function, * Python's input() function
 
-**Thoughts:** I started with python basics which is a bit easier.
+**Thoughts:** I started with python basics which is a bit easier. The fundamental I/O functions were completed with data types.
 
 **Link to work:** [Simple program notes for fundamentals](https://github.com/Logadheep/mr.anon.programmer/blob/main/100%20days%20of%20code/Day_1.py)
 
