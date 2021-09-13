@@ -12,12 +12,12 @@
 # Additional Resources on the #100DaysOfCode
 
 ## Helpful Articles
-1. [Gentle Explanation of 'this keyword in JavaScript](http://rainsoft.io/gentle-explanation-of-this-in-javascript/)
-2. [Build a Laravel CRUD Application from scratch](https://www.codewall.co.uk/laravel-crud-demo-with-resource-controller-tutorial/)
+1. [The Official Documentation](http://python.org/)
+2. [JetBrains Academy for programming](https://www.jetbrains.com/academy/)
 
 ## Projects and Ideas
 1. [FreeCodeCamp](https://www.freecodecamp.com)
-2. [The Odin Project](http://www.theodinproject.com/)
+2. [JetBrains Academy for developers](https://www.jetbrains.com/academy/)
 
 ## Other resources
 1. [CodeNewbie - #100DaysOfCode Slack Channel](https://codenewbie.typeform.com/to/uwsWlZ)
@@ -30,10 +30,10 @@
 3. ["Ego is the Enemy" by Ryan Holiday](http://www.goodreads.com/book/show/27036528-ego-is-the-enemy?from_search=true&search_version=service)
 4. ["Meditations" by Marcus Aurelius](https://www.goodreads.com/book/show/662925.Meditations)
 
-### Coding
-1. "Professional Node.js" by Teixeira
-2. ["Eloquent Javascript" by Marijn Haverbeke](http://eloquentjavascript.net/) - available online (free) & as a paperback
-3. "Mastering JavaScript" by Ved Antani
+### Coding Cook Books
+1. "Learn Python the Hard Way" by Shaw Zed A.
+2. [Automating the Borjng Stuffs with Python](https://automatetheboringstuff.com/#:~:text=Automate%20the%20Boring%20Stuff%20with%20Python%201%20Practical,4%20Additional%20Content%205%20About%20the%20Author.%20) - available online (free) & as a paperback
+3. "Fluency Python: Clear, Concise, and Effective Programming" by Luciano Ramalho
 
 ## Contents
 * [Rules](rules.md)
