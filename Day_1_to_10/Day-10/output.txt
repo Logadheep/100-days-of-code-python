@@ -1,0 +1,8 @@
+The contents 
+Of this
+File can
+Be seen in other when 
+The python file is run
+The output
+File name
+Is output.txt
