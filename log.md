@@ -8,7 +8,7 @@
 
 **Link to work:** [Simple program notes for fundamentals](https://github.com/Logadheep/mr.anon.programmer/blob/main/100%20days%20of%20code/Day_1.py)
 
-___ to be continued with day 2 ___
+-- to be continued with day 2 --
 <!-- ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
 
